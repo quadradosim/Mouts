@@ -23,8 +23,10 @@ Run Back-end
 Run Front-end
 
 	The front-end application is inside folder Web/TestMountTi. Change SERVER_URL at the Web/TestMountTi/config.json () with the right API url. 
-	At the prompt get in Web/TestMountTi folder and run code below
+	Change TOKEN with (this token will be use in front-end). At the prompt get in Web/TestMountTi folder and run code below
 	
+		npm i
+		
 		npm run dev
 		
 	The locally server will run and show the url to set in browser. In the login page use admin@admin to the user and 1234 to the password.
