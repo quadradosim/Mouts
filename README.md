@@ -22,8 +22,8 @@ Run Back-end
 		
 Run Front-end
 
-	The front-end application is inside folder Web/TestMountTi. Change SERVER_URL at the Web/TestMountTi/config.json () with the right API url. 
-	At the prompt get in Web/TestMountTi folder and run code below
+	The front-end application is inside folder Web/TestMountTi. Change SERVER_URL at the Web/TestMountTi/src/config.json () with the right API url. 
+	And change de TOKEN with the value in (this token will be use in front-end). At the prompt get in Web/TestMountTi folder and run code below
 	
 		npm run dev
 		
