@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestMoutsTi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4feb1e12d22e6b3670fcdb1c556ab2f987e5433")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b393512a6f5cc192ba3c4915f00f2e24b2b0ace0")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestMoutsTi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestMoutsTi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

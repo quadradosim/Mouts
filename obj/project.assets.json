@@ -5448,11 +5448,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\Teste Mout ti\\GitHub\\Mouts\\TestMoutsTi.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\TesteMoutti\\GitHub\\Mouts\\TestMoutsTi.csproj",
       "projectName": "TestMoutsTi",
-      "projectPath": "C:\\Users\\Lenovo\\Documents\\Teste Mout ti\\GitHub\\Mouts\\TestMoutsTi.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\Documents\\TesteMoutti\\GitHub\\Mouts\\TestMoutsTi.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\Documents\\Teste Mout ti\\GitHub\\Mouts\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Documents\\TesteMoutti\\GitHub\\Mouts\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
