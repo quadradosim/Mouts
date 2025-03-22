@@ -13,9 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TestMoutsTi\TestMoutsTi.csproj" />
-    <!--<ProjectReference Include="..\TestMoutsTi\TestMoutsTi.csproj" />-->
-    <!--<ProjectReference Include="..\TestMoutsTi\TestMoutsTi.csproj" />-->
+    <ProjectReference Include="..\TestAccruent\TestAccruent.csproj" />
   </ItemGroup>
 
 </Project>
